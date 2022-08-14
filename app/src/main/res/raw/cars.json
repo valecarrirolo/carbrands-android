@@ -1,0 +1,352 @@
+[
+  {
+    "rank": 1,
+    "image": "https://www.carlogos.org/car-logos/toyota-logo.png",
+    "origin": "Japan",
+    "name": "Toyota",
+    "type": "Mass-Market Cars"
+  },
+  {
+    "rank": 2,
+    "image": "https://www.carlogos.org/car-logos/honda-logo.png",
+    "origin": "Japan",
+    "name": "Honda",
+    "type": "Mass-Market Cars"
+  },
+  {
+    "rank": 3,
+    "image": "https://www.carlogos.org/car-logos/chevrolet-logo.png",
+    "origin": "United States",
+    "name": "Chevrolet",
+    "type": "Mass-Market Cars"
+  },
+  {
+    "rank": 4,
+    "image": "https://www.carlogos.org/car-logos/ford-logo.png",
+    "origin": "United States",
+    "name": "Ford",
+    "type": "Mass-Market Cars"
+  },
+  {
+    "rank": 5,
+    "image": "https://www.carlogos.org/car-logos/mercedes-benz-logo.png",
+    "origin": "Germany",
+    "name": "Mercedes-Benz",
+    "type": "Luxury Vehicles"
+  },
+  {
+    "rank": 6,
+    "image": "https://www.carlogos.org/car-logos/jeep-logo.png",
+    "origin": "United States",
+    "name": "Jeep",
+    "type": "Sport Utility Vehicles"
+  },
+  {
+    "rank": 7,
+    "image": "https://www.carlogos.org/car-logos/bmw-logo.png",
+    "origin": "Germany",
+    "name": "BMW",
+    "type": "Luxury Vehicles"
+  },
+  {
+    "rank": 8,
+    "image": "https://www.carlogos.org/car-logos/porsche-logo.png",
+    "origin": "Germany",
+    "name": "Porsche",
+    "type": "Luxury Sports Cars"
+  },
+  {
+    "rank": 9,
+    "image": "https://www.carlogos.org/car-logos/subaru-logo.png",
+    "origin": "Japan",
+    "name": "Subaru",
+    "type": "Mass-Market Cars"
+  },
+  {
+    "rank": 10,
+    "image": "https://www.carlogos.org/car-logos/nissan-logo.png",
+    "origin": "Japan",
+    "name": "Nissan",
+    "type": "Mass-Market Cars"
+  },
+  {
+    "rank": 11,
+    "image": "https://www.carlogos.org/car-logos/cadillac-logo.png",
+    "origin": "United States",
+    "name": "Cadillac",
+    "type": "Luxury Vehicles"
+  },
+  {
+    "rank": 12,
+    "image": "https://www.carlogos.org/car-logos/volkswagen-logo.png",
+    "origin": "Germany",
+    "name": "Volkswagen",
+    "type": "Mass-Market Cars"
+  },
+  {
+    "rank": 13,
+    "image": "https://www.carlogos.org/car-logos/lexus-logo.png",
+    "origin": "Japan",
+    "name": "Lexus",
+    "type": "Luxury Vehicles"
+  },
+  {
+    "rank": 14,
+    "image": "https://www.carlogos.org/car-logos/audi-logo.png",
+    "origin": "Germany",
+    "name": "Audi",
+    "type": "Luxury Vehicles"
+  },
+  {
+    "rank": 15,
+    "image": "https://www.carlogos.org/car-logos/ferrari-logo.png",
+    "origin": "Italy",
+    "name": "Ferrari",
+    "type": "Super Luxury Sports Cars"
+  },
+  {
+    "rank": 16,
+    "image": "https://www.carlogos.org/car-logos/volvo-logo.png",
+    "origin": "Sweden",
+    "name": "Volvo",
+    "type": "Luxury Vehicles"
+  },
+  {
+    "rank": 17,
+    "image": "https://www.carlogos.org/car-logos/jaguar-logo.png",
+    "origin": "United Kingdom",
+    "name": "Jaguar",
+    "type": "Luxury Vehicles"
+  },
+  {
+    "rank": 18,
+    "image": "https://www.carlogos.org/car-logos/gmc-logo.png",
+    "origin": "United States",
+    "name": "GMC",
+    "type": "Pickup Trucks"
+  },
+  {
+    "rank": 19,
+    "image": "https://www.carlogos.org/car-logos/buick-logo.png",
+    "origin": "United States",
+    "name": "Buick",
+    "type": "Mass-Market Cars"
+  },
+  {
+    "rank": 20,
+    "image": "https://www.carlogos.org/car-logos/acura-logo.png",
+    "origin": "Japan",
+    "name": "Acura",
+    "type": "Luxury Vehicles"
+  },
+  {
+    "rank": 21,
+    "image": "https://www.carlogos.org/car-logos/bentley-logo.png",
+    "origin": "United Kingdom",
+    "name": "Bentley",
+    "type": "Ultra-luxury Cars"
+  },
+  {
+    "rank": 22,
+    "image": "https://www.carlogos.org/car-logos/dodge-logo.png",
+    "origin": "United States",
+    "name": "Dodge",
+    "type": "Performance Cars"
+  },
+  {
+    "rank": 23,
+    "image": "https://www.carlogos.org/car-logos/hyundai-logo.png",
+    "origin": "South Korea",
+    "name": "Hyundai",
+    "type": "Mass-Market Cars"
+  },
+  {
+    "rank": 24,
+    "image": "https://www.carlogos.org/car-logos/lincoln-logo.png",
+    "origin": "United States",
+    "name": "Lincoln",
+    "type": "Luxury Vehicles"
+  },
+  {
+    "rank": 25,
+    "image": "https://www.carlogos.org/car-logos/mazda-logo.png",
+    "origin": "Japan",
+    "name": "Mazda",
+    "type": "Mass-Market Cars"
+  },
+  {
+    "rank": 26,
+    "image": "https://www.carlogos.org/car-logos/land-rover-logo.png",
+    "origin": "United Kingdom",
+    "name": "Land Rover",
+    "type": "Luxury Sport Utility Vehicles"
+  },
+  {
+    "rank": 27,
+    "image": "https://www.carlogos.org/car-logos/tesla-logo.png",
+    "origin": "United States",
+    "name": "Tesla",
+    "type": "Luxury Electric Vehicles"
+  },
+  {
+    "rank": 28,
+    "image": "https://www.carlogos.org/car-logos/ram-logo.png",
+    "origin": "United States",
+    "name": "Ram Trucks",
+    "type": "Pickup Trucks, Vans"
+  },
+  {
+    "rank": 29,
+    "image": "https://www.carlogos.org/car-logos/kia-logo.png",
+    "origin": "South Korea",
+    "name": "Kia",
+    "type": "Mass-Market Cars"
+  },
+  {
+    "rank": 30,
+    "image": "https://www.carlogos.org/car-logos/chrysler-logo.png",
+    "origin": "United States",
+    "name": "Chrysler",
+    "type": "Luxury Vehicles"
+  },
+  {
+    "rank": 31,
+    "image": "https://www.carlogos.org/car-logos/pontiac-logo.png",
+    "origin": "United States",
+    "name": "Pontiac",
+    "type": "Luxury Vehicles"
+  },
+  {
+    "rank": 32,
+    "image": "https://www.carlogos.org/car-logos/infiniti-logo.png",
+    "origin": "Japan",
+    "name": "Infiniti",
+    "type": "Luxury Vehicles"
+  },
+  {
+    "rank": 33,
+    "image": "https://www.carlogos.org/car-logos/mitsubishi-logo.png",
+    "origin": "Japan",
+    "name": "Mitsubishi",
+    "type": "Mass-Market Cars"
+  },
+  {
+    "rank": 34,
+    "image": "https://www.carlogos.org/car-logos/oldsmobile-logo.png",
+    "origin": "United States",
+    "name": "Oldsmobile",
+    "type": "Luxury vehicles"
+  },
+  {
+    "rank": 35,
+    "image": "https://www.carlogos.org/car-logos/maserati-logo.png",
+    "origin": "Italy",
+    "name": "Maserati",
+    "type": "Super Luxury Sports Cars"
+  },
+  {
+    "rank": 36,
+    "image": "https://www.carlogos.org/car-logos/aston-martin-logo.png",
+    "origin": "United Kingdom",
+    "name": "Aston Martin",
+    "type": "Super Luxury Sports Cars"
+  },
+  {
+    "rank": 37,
+    "image": "https://www.carlogos.org/car-logos/bugatti-logo.png",
+    "origin": "France",
+    "name": "Bugatti",
+    "type": "Luxury Supercars"
+  },
+  {
+    "rank": 38,
+    "image": "https://www.carlogos.org/car-logos/fiat-logo.png",
+    "origin": "Italy",
+    "name": "Fiat",
+    "type": "Small Cars"
+  },
+  {
+    "rank": 39,
+    "image": "https://www.carlogos.org/car-logos/mini-logo.png",
+    "origin": "United Kingdom",
+    "name": "Mini",
+    "type": "Luxury Small Cars"
+  },
+  {
+    "rank": 40,
+    "image": "https://www.carlogos.org/car-logos/alfa-romeo-logo.png",
+    "origin": "Italy",
+    "name": "Alfa Romeo",
+    "type": "Luxury vehicles"
+  },
+  {
+    "rank": 41,
+    "image": "https://www.carlogos.org/car-logos/saab-logo.png",
+    "origin": "Sweden",
+    "name": "Saab",
+    "type": "Automobiles"
+  },
+  {
+    "rank": 42,
+    "image": "https://www.carlogos.org/car-logos/genesis-logo.png",
+    "origin": "South Korea",
+    "name": "Genesis",
+    "type": "Luxury Vehicles"
+  },
+  {
+    "rank": 43,
+    "image": "https://www.carlogos.org/car-logos/suzuki-logo.png",
+    "origin": "Japan",
+    "name": "Suzuki",
+    "type": "Mass-Market Cars"
+  },
+  {
+    "rank": 44,
+    "image": "https://www.carlogos.org/car-logos/studebaker-logo.png",
+    "origin": "United States",
+    "name": "Studebaker",
+    "type": "Automobiles"
+  },
+  {
+    "rank": 45,
+    "image": "https://www.carlogos.org/car-logos/renault-logo.png",
+    "origin": "France",
+    "name": "Renault",
+    "type": "Mass-Market Cars"
+  },
+  {
+    "rank": 46,
+    "image": "https://www.carlogos.org/car-logos/peugeot-logo.png",
+    "origin": "France",
+    "name": "Peugeot",
+    "type": "Mass-Market Cars"
+  },
+  {
+    "rank": 47,
+    "image": "https://www.carlogos.org/car-logos/daewoo-logo.png",
+    "origin": "South Korea",
+    "name": "Daewoo",
+    "type": "Economy Cars"
+  },
+  {
+    "rank": 48,
+    "image": "https://www.carlogos.org/car-logos/hudson-logo.png",
+    "origin": "United States",
+    "name": "Hudson",
+    "type": "Vehicles"
+  },
+  {
+    "rank": 49,
+    "image": "https://www.carlogos.org/car-logos/citroen-logo.png",
+    "origin": "France",
+    "name": "Citroen",
+    "type": "Mass-Market Cars"
+  },
+  {
+    "rank": 50,
+    "image": "https://www.carlogos.org/car-logos/mg-logo.png",
+    "origin": "United Kingdom",
+    "name": "MG",
+    "type": "Small Cars"
+  }
+]
